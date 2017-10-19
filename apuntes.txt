@@ -1,0 +1,52 @@
+#atajos en linux
+
+en notacion backus naur
+![icono gmd].(./apuntes/carpeta personal/images/logo.jpg viva gnome 3 shell)
+ 
+##gnome
+
+- meta panel lateral
+- ctrl-q quitar programas
+- ctrl-w cerrar ventana
+- alt -º cambiar entre pestañas 
+- alt - tab cambiar entre programas
+- ctrl alt ↓ cambiar de escritorio
+- meta barra espaciadora cambiar el lenguaje
+- ctrl + aumentar la fuente
+- ctrl - disminuir la fuente
+- ctrl c copiar
+- ctrl v pegar
+- ctrl x cortar
+- mayus flechas seleccionar texto
+
+##terminal
+
+- ctrl alt t  terminal
+- ctrl mayus t   nueva pestaña
+- alt [numero] cambiar de pestaña
+- _palabra_ Enfatizar
+* lista
+* lista
+- ctrl alt u2193 flecha hacia abajo
+- ctrl c interrumpir programa
+- ctrl z segundo plano
+- ctrl c copiar
+- ctrl v pegar
+- mayus flechas seleccionar texto
+- ls lista el contenido de las carpetas
+- cd cambia de directorio
+- mkdir crea un directorio
+- rm borra un archivo
+- rm -rf borra el contenido de la carpeta
+- cat concatena el contenido de los archivos y lo muestra por pantalla
+- redireciones
+- < entrada
+- << palabra clave       contenido del texto            palabra clave
+
+
+##sublime
+- ctrl bloq mayus u deshacer
+- alt gr letra simbolos
+- mayus flechas seleccionar texto
+` ` ` ` ` `colorea la zona anterior
+- > cita
